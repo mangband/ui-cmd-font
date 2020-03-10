@@ -1,3 +1,7 @@
+## About
+
+![preview](ui-cmd64x64.png)
+
 ## Rebuilding
 
 ui-cmd font was built using the IcoMoon webapp - https://icomoon.io/app
